@@ -1,5 +1,4 @@
 # HRONTest
 A HR-ON Developer Task
 
-
-![Android screenshot] (https://github.com/MartinDKnudsen/HRONTest/blob/e3851473496ad17f6e2e615622923e9e27a1fefa/AndroidScreenShot.png)
+![AndroidScreenShot](https://user-images.githubusercontent.com/66463206/95564538-40a8cb80-0a1f-11eb-8ac2-6168fbadf1e3.png)
